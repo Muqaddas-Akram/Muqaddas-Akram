@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF1AsB3q4wxVgh0BkQXX8I2cFWKWTlGmbGpA&s">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=muqaddas-akram&label=Profile%20views&color=0e75b6&style=flat](https://images.playground.com/586b4eff477549e1a37e38085e78b5eb.jpeg)" alt="muqaddas-akram" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fphotos-premium%2Fanime-girl-utilisant-ordinateur-portable-ecoutant-musique-portant-casque_64438389.htm&psig=AOvVaw2Bx1Osd4eziEtW0CQAXF5T&ust=1723200844340000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi1tc2d5YcDFQAAAAAdAAAAABBO" alt="muqaddas-akram" /> </p>
 
 - 🌱 I’m currently learning **Tensor Flow**
 
@@ -24,19 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muqaddas-akram&show_icons=true&locale=en" alt="muqaddas-akram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muqaddas-akram&" alt="muqaddas-akram" /></p>
-## Hi there 👋
-
-<!--
-**Muqaddas-Akram/Muqaddas-Akram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
