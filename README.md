@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF1AsB3q4wxVgh0BkQXX8I2cFWKWTlGmbGpA&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muqaddas-akram&label=Profile%20views&color=0e75b6&style=flat" alt="muqaddas-akram" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=muqaddas-akram&label=Profile%20views&color=0e75b6&style=flat](https://images.playground.com/586b4eff477549e1a37e38085e78b5eb.jpeg)" alt="muqaddas-akram" /> </p>
 
 - 🌱 I’m currently learning **Tensor Flow**
 
