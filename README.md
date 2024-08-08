@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muqaddas Akram</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF1AsB3q4wxVgh0BkQXX8I2cFWKWTlGmbGpA&s">
-
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fphotos-premium%2Fanime-girl-utilisant-ordinateur-portable-ecoutant-musique-portant-casque_64438389.htm&psig=AOvVaw2Bx1Osd4eziEtW0CQAXF5T&ust=1723200844340000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi1tc2d5YcDFQAAAAAdAAAAABBO" alt="muqaddas-akram" /> </p>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **Tensor Flow**
 
