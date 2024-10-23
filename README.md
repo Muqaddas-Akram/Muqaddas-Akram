@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muqaddas Akram</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muqaddas-akram&label=Profile%20views&color=0e75b6&style=flat" alt="muqaddas-akram" /> </p>
 
 - 🌱 I’m currently learning **Tensor Flow**
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **muqaddasakram416@gmail.com**
 
-- ⚡ Amazing fact **I think I am Creative**
+- ⚡ Fun fact **I think I am Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
