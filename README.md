@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muqaddas Akram</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqaddas-akram&label=Profile%20views&color=0e75b6&style=flat" alt="muqaddas-akram" /> </p>
 
 - 🌱 I’m currently learning **Tensor Flow**
 
-- 💬 Ask me about **JavaScript,React.js**
+- 💬 Ask me about **JavaScript,React.js,React Native**
 
 - 📫 How to reach me **muqaddasakram416@gmail.com**
 
