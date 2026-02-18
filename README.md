@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muqaddas-akram&label=Profile%20views&color=0e75b6&style=flat" alt="muqaddas-akram" /> </p>
 
-- 🌱 I’m currently learning **Tensor Flow**
+- 🌱 I’m currently learning **DevOops**
 
 - 💬 Ask me about **JavaScript,React.js,React Native**
 
