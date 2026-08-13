@@ -5,7 +5,4 @@
 
 - ⚡ Fun fact **I think I am Creative**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muqaddas-akram&show_icons=true&locale=en" alt="muqaddas-akram" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muqaddas-akram&" alt="muqaddas-akram" /></p>
